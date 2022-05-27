@@ -1,0 +1,2287 @@
+[
+  {
+    "id": 387,
+    "gen": 4,
+    "name": "ナエトル",
+    "romaji": "naetoru",
+    "image": "/images/pokemon/387.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 388,
+    "gen": 4,
+    "name": "ハヤシガメ",
+    "romaji": "hayashigame",
+    "image": "/images/pokemon/388.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 389,
+    "gen": 4,
+    "name": "ドダイトス",
+    "romaji": "dodaitosu",
+    "image": "/images/pokemon/389.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      },
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 390,
+    "gen": 4,
+    "name": "ヒコザル",
+    "romaji": "hikozaru",
+    "image": "/images/pokemon/390.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_2_on.png",
+        "type": "ほのお",
+        "romaji": "honoo"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 391,
+    "gen": 4,
+    "name": "モウカザル",
+    "romaji": "moukazaru",
+    "image": "/images/pokemon/391.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_2_on.png",
+        "type": "ほのお",
+        "romaji": "honoo"
+      },
+      {
+        "image": "/images/types/icon_type_7_on.png",
+        "type": "かくとう",
+        "romaji": "kakutou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 392,
+    "gen": 4,
+    "name": "ゴウカザル",
+    "romaji": "goukazaru",
+    "image": "/images/pokemon/392.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_2_on.png",
+        "type": "ほのお",
+        "romaji": "honoo"
+      },
+      {
+        "image": "/images/types/icon_type_7_on.png",
+        "type": "かくとう",
+        "romaji": "kakutou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 393,
+    "gen": 4,
+    "name": "ポッチャマ",
+    "romaji": "pocchama",
+    "image": "/images/pokemon/393.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 394,
+    "gen": 4,
+    "name": "ポッタイシ",
+    "romaji": "pottaishi",
+    "image": "/images/pokemon/394.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 395,
+    "gen": 4,
+    "name": "エンペルト",
+    "romaji": "enperuto",
+    "image": "/images/pokemon/395.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      },
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 396,
+    "gen": 4,
+    "name": "ムックル",
+    "romaji": "mukkuru",
+    "image": "/images/pokemon/396.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 397,
+    "gen": 4,
+    "name": "ムクバード",
+    "romaji": "mukubaado",
+    "image": "/images/pokemon/397.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 398,
+    "gen": 4,
+    "name": "ムクホーク",
+    "romaji": "mukuhooku",
+    "image": "/images/pokemon/398.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 399,
+    "gen": 4,
+    "name": "ビッパ",
+    "romaji": "bippa",
+    "image": "/images/pokemon/399.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 400,
+    "gen": 4,
+    "name": "ビーダル",
+    "romaji": "biidaru",
+    "image": "/images/pokemon/400.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      },
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 401,
+    "gen": 4,
+    "name": "コロボーシ",
+    "romaji": "korobooshi",
+    "image": "/images/pokemon/401.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 402,
+    "gen": 4,
+    "name": "コロトック",
+    "romaji": "korotokku",
+    "image": "/images/pokemon/402.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 403,
+    "gen": 4,
+    "name": "コリンク",
+    "romaji": "korinku",
+    "image": "/images/pokemon/403.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_5_on.png",
+        "type": "でんき",
+        "romaji": "denki"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 404,
+    "gen": 4,
+    "name": "ルクシオ",
+    "romaji": "rukushio",
+    "image": "/images/pokemon/404.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_5_on.png",
+        "type": "でんき",
+        "romaji": "denki"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 405,
+    "gen": 4,
+    "name": "レントラー",
+    "romaji": "rentoraa",
+    "image": "/images/pokemon/405.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_5_on.png",
+        "type": "でんき",
+        "romaji": "denki"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 406,
+    "gen": 4,
+    "name": "スボミー",
+    "romaji": "subomii",
+    "image": "/images/pokemon/406.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      },
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 407,
+    "gen": 4,
+    "name": "ロズレイド",
+    "romaji": "rozureido",
+    "image": "/images/pokemon/407.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      },
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 408,
+    "gen": 4,
+    "name": "ズガイドス",
+    "romaji": "zugaidosu",
+    "image": "/images/pokemon/408.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_13_on.png",
+        "type": "いわ",
+        "romaji": "iwa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 409,
+    "gen": 4,
+    "name": "ラムパルド",
+    "romaji": "ramuparudo",
+    "image": "/images/pokemon/409.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_13_on.png",
+        "type": "いわ",
+        "romaji": "iwa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 410,
+    "gen": 4,
+    "name": "タテトプス",
+    "romaji": "tatetopusu",
+    "image": "/images/pokemon/410.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_13_on.png",
+        "type": "いわ",
+        "romaji": "iwa"
+      },
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 411,
+    "gen": 4,
+    "name": "トリデプス",
+    "romaji": "toridepusu",
+    "image": "/images/pokemon/411.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_13_on.png",
+        "type": "いわ",
+        "romaji": "iwa"
+      },
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 412,
+    "gen": 4,
+    "name": "ミノムッチ",
+    "romaji": "minomucchi",
+    "image": "/images/pokemon/412.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      }
+    ],
+    "variants": [
+      {
+        "id": 412,
+        "gen": 4,
+        "name": "ミノムッチ",
+        "romanji": "minomucchi",
+        "image": "/images/pokemon/412-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_12_on.png",
+            "type": "むし",
+            "romaji": "mushi"
+          }
+        ],
+        "romaji": "minomucchi"
+      },
+      {
+        "id": 412,
+        "gen": 4,
+        "name": "ミノムッチ",
+        "romanji": "minomucchi",
+        "image": "/images/pokemon/412-2.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_12_on.png",
+            "type": "むし",
+            "romaji": "mushi"
+          }
+        ],
+        "romaji": "minomucchi"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "gen": 4,
+    "name": "ミノマダム",
+    "romaji": "minomadamu",
+    "image": "/images/pokemon/413.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      },
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": [
+      {
+        "id": 413,
+        "gen": 4,
+        "name": "ミノマダム",
+        "romanji": "minomadamu",
+        "image": "/images/pokemon/413-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_12_on.png",
+            "type": "むし",
+            "romaji": "mushi"
+          },
+          {
+            "image": "/images/types/icon_type_9_on.png",
+            "type": "じめん",
+            "romaji": "jimen"
+          }
+        ],
+        "romaji": "minomadamu"
+      },
+      {
+        "id": 413,
+        "gen": 4,
+        "name": "ミノマダム",
+        "romanji": "minomadamu",
+        "image": "/images/pokemon/413-2.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_12_on.png",
+            "type": "むし",
+            "romaji": "mushi"
+          },
+          {
+            "image": "/images/types/icon_type_17_on.png",
+            "type": "はがね",
+            "romaji": "hagane"
+          }
+        ],
+        "romaji": "minomadamu"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "gen": 4,
+    "name": "ガーメイル",
+    "romaji": "gaameiru",
+    "image": "/images/pokemon/414.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 415,
+    "gen": 4,
+    "name": "ミツハニー",
+    "romaji": "mitsuhanii",
+    "image": "/images/pokemon/415.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 416,
+    "gen": 4,
+    "name": "ビークイン",
+    "romaji": "biikuin",
+    "image": "/images/pokemon/416.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 417,
+    "gen": 4,
+    "name": "パチリス",
+    "romaji": "pachirisu",
+    "image": "/images/pokemon/417.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_5_on.png",
+        "type": "でんき",
+        "romaji": "denki"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 418,
+    "gen": 4,
+    "name": "ブイゼル",
+    "romaji": "buizeru",
+    "image": "/images/pokemon/418.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 419,
+    "gen": 4,
+    "name": "フローゼル",
+    "romaji": "furoozeru",
+    "image": "/images/pokemon/419.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 420,
+    "gen": 4,
+    "name": "チェリンボ",
+    "romaji": "cherinbo",
+    "image": "/images/pokemon/420.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 421,
+    "gen": 4,
+    "name": "チェリム",
+    "romaji": "cherimu",
+    "image": "/images/pokemon/421.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": [
+      {
+        "id": 421,
+        "gen": 4,
+        "name": "チェリム",
+        "romanji": "cherimu",
+        "image": "/images/pokemon/421-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_4_on.png",
+            "type": "くさ",
+            "romaji": "kusa"
+          }
+        ],
+        "romaji": "cherimu"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "gen": 4,
+    "name": "カラナクシ",
+    "romaji": "karanakushi",
+    "image": "/images/pokemon/422.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": [
+      {
+        "id": 422,
+        "gen": 4,
+        "name": "カラナクシ",
+        "romanji": "karanakushi",
+        "image": "/images/pokemon/422-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_3_on.png",
+            "type": "みず",
+            "romaji": "mizu"
+          }
+        ],
+        "romaji": "karanakushi"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "gen": 4,
+    "name": "トリトドン",
+    "romaji": "toritodon",
+    "image": "/images/pokemon/423.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      },
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": [
+      {
+        "id": 423,
+        "gen": 4,
+        "name": "トリトドン",
+        "romanji": "toritodon",
+        "image": "/images/pokemon/423-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_3_on.png",
+            "type": "みず",
+            "romaji": "mizu"
+          },
+          {
+            "image": "/images/types/icon_type_9_on.png",
+            "type": "じめん",
+            "romaji": "jimen"
+          }
+        ],
+        "romaji": "toritodon"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "gen": 4,
+    "name": "エテボース",
+    "romaji": "eteboosu",
+    "image": "/images/pokemon/424.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 425,
+    "gen": 4,
+    "name": "フワンテ",
+    "romaji": "fuwante",
+    "image": "/images/pokemon/425.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 426,
+    "gen": 4,
+    "name": "フワライド",
+    "romaji": "fuwaraido",
+    "image": "/images/pokemon/426.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 427,
+    "gen": 4,
+    "name": "ミミロル",
+    "romaji": "mimiroru",
+    "image": "/images/pokemon/427.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 428,
+    "gen": 4,
+    "name": "ミミロップ",
+    "romaji": "mimiroppu",
+    "image": "/images/pokemon/428.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": [
+      {
+        "id": 428,
+        "gen": 4,
+        "name": "メガミミロップ",
+        "romanji": "megamimiroppu",
+        "image": "/images/pokemon/428-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_1_on.png",
+            "type": "ノーマル",
+            "romaji": "noomaru"
+          },
+          {
+            "image": "/images/types/icon_type_7_on.png",
+            "type": "かくとう",
+            "romaji": "kakutou"
+          }
+        ],
+        "romaji": "megamimiroppu"
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "gen": 4,
+    "name": "ムウマージ",
+    "romaji": "muumaaji",
+    "image": "/images/pokemon/429.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 430,
+    "gen": 4,
+    "name": "ドンカラス",
+    "romaji": "donkarasu",
+    "image": "/images/pokemon/430.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_16_on.png",
+        "type": "あく",
+        "romaji": "aku"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 431,
+    "gen": 4,
+    "name": "ニャルマー",
+    "romaji": "nyarumaa",
+    "image": "/images/pokemon/431.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 432,
+    "gen": 4,
+    "name": "ブニャット",
+    "romaji": "bunyatto",
+    "image": "/images/pokemon/432.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 433,
+    "gen": 4,
+    "name": "リーシャン",
+    "romaji": "riishan",
+    "image": "/images/pokemon/433.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 434,
+    "gen": 4,
+    "name": "スカンプー",
+    "romaji": "sukanpuu",
+    "image": "/images/pokemon/434.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      },
+      {
+        "image": "/images/types/icon_type_16_on.png",
+        "type": "あく",
+        "romaji": "aku"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 435,
+    "gen": 4,
+    "name": "スカタンク",
+    "romaji": "sukatanku",
+    "image": "/images/pokemon/435.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      },
+      {
+        "image": "/images/types/icon_type_16_on.png",
+        "type": "あく",
+        "romaji": "aku"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 436,
+    "gen": 4,
+    "name": "ドーミラー",
+    "romaji": "doomiraa",
+    "image": "/images/pokemon/436.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      },
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 437,
+    "gen": 4,
+    "name": "ドータクン",
+    "romaji": "dootakun",
+    "image": "/images/pokemon/437.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      },
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 438,
+    "gen": 4,
+    "name": "ウソハチ",
+    "romaji": "usohachi",
+    "image": "/images/pokemon/438.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_13_on.png",
+        "type": "いわ",
+        "romaji": "iwa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 439,
+    "gen": 4,
+    "name": "マネネ",
+    "romaji": "manene",
+    "image": "/images/pokemon/439.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      },
+      {
+        "image": "/images/types/icon_type_18_on.png",
+        "type": "フェアリー",
+        "romaji": "fyearii"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 440,
+    "gen": 4,
+    "name": "ピンプク",
+    "romaji": "pinpuku",
+    "image": "/images/pokemon/440.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 441,
+    "gen": 4,
+    "name": "ペラップ",
+    "romaji": "perappu",
+    "image": "/images/pokemon/441.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 442,
+    "gen": 4,
+    "name": "ミカルゲ",
+    "romaji": "mikaruge",
+    "image": "/images/pokemon/442.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      },
+      {
+        "image": "/images/types/icon_type_16_on.png",
+        "type": "あく",
+        "romaji": "aku"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 443,
+    "gen": 4,
+    "name": "フカマル",
+    "romaji": "fukamaru",
+    "image": "/images/pokemon/443.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_15_on.png",
+        "type": "ドラゴン",
+        "romaji": "doragon"
+      },
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 444,
+    "gen": 4,
+    "name": "ガバイト",
+    "romaji": "gabaito",
+    "image": "/images/pokemon/444.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_15_on.png",
+        "type": "ドラゴン",
+        "romaji": "doragon"
+      },
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 445,
+    "gen": 4,
+    "name": "ガブリアス",
+    "romaji": "gaburiasu",
+    "image": "/images/pokemon/445.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_15_on.png",
+        "type": "ドラゴン",
+        "romaji": "doragon"
+      },
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": [
+      {
+        "id": 445,
+        "gen": 4,
+        "name": "メガガブリアス",
+        "romanji": "megagaburiasu",
+        "image": "/images/pokemon/445-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_15_on.png",
+            "type": "ドラゴン",
+            "romaji": "doragon"
+          },
+          {
+            "image": "/images/types/icon_type_9_on.png",
+            "type": "じめん",
+            "romaji": "jimen"
+          }
+        ],
+        "romaji": "megagaburiasu"
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "gen": 4,
+    "name": "ゴンベ",
+    "romaji": "gonbe",
+    "image": "/images/pokemon/446.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 447,
+    "gen": 4,
+    "name": "リオル",
+    "romaji": "rioru",
+    "image": "/images/pokemon/447.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_7_on.png",
+        "type": "かくとう",
+        "romaji": "kakutou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 448,
+    "gen": 4,
+    "name": "ルカリオ",
+    "romaji": "rukario",
+    "image": "/images/pokemon/448.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_7_on.png",
+        "type": "かくとう",
+        "romaji": "kakutou"
+      },
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      }
+    ],
+    "variants": [
+      {
+        "id": 448,
+        "gen": 4,
+        "name": "メガルカリオ",
+        "romanji": "megarukario",
+        "image": "/images/pokemon/448-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_7_on.png",
+            "type": "かくとう",
+            "romaji": "kakutou"
+          },
+          {
+            "image": "/images/types/icon_type_17_on.png",
+            "type": "はがね",
+            "romaji": "hagane"
+          }
+        ],
+        "romaji": "megarukario"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "gen": 4,
+    "name": "ヒポポタス",
+    "romaji": "hipopotasu",
+    "image": "/images/pokemon/449.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 450,
+    "gen": 4,
+    "name": "カバルドン",
+    "romaji": "kabarudon",
+    "image": "/images/pokemon/450.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 451,
+    "gen": 4,
+    "name": "スコルピ",
+    "romaji": "sukorupi",
+    "image": "/images/pokemon/451.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      },
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 452,
+    "gen": 4,
+    "name": "ドラピオン",
+    "romaji": "dorapion",
+    "image": "/images/pokemon/452.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      },
+      {
+        "image": "/images/types/icon_type_16_on.png",
+        "type": "あく",
+        "romaji": "aku"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 453,
+    "gen": 4,
+    "name": "グレッグル",
+    "romaji": "guregguru",
+    "image": "/images/pokemon/453.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      },
+      {
+        "image": "/images/types/icon_type_7_on.png",
+        "type": "かくとう",
+        "romaji": "kakutou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 454,
+    "gen": 4,
+    "name": "ドクロッグ",
+    "romaji": "dokuroggu",
+    "image": "/images/pokemon/454.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_8_on.png",
+        "type": "どく",
+        "romaji": "doku"
+      },
+      {
+        "image": "/images/types/icon_type_7_on.png",
+        "type": "かくとう",
+        "romaji": "kakutou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 455,
+    "gen": 4,
+    "name": "マスキッパ",
+    "romaji": "masukippa",
+    "image": "/images/pokemon/455.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 456,
+    "gen": 4,
+    "name": "ケイコウオ",
+    "romaji": "keikouo",
+    "image": "/images/pokemon/456.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 457,
+    "gen": 4,
+    "name": "ネオラント",
+    "romaji": "neoranto",
+    "image": "/images/pokemon/457.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 458,
+    "gen": 4,
+    "name": "タマンタ",
+    "romaji": "tamanta",
+    "image": "/images/pokemon/458.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 459,
+    "gen": 4,
+    "name": "ユキカブリ",
+    "romaji": "yukikaburi",
+    "image": "/images/pokemon/459.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      },
+      {
+        "image": "/images/types/icon_type_6_on.png",
+        "type": "こおり",
+        "romaji": "koori"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 460,
+    "gen": 4,
+    "name": "ユキノオー",
+    "romaji": "yukinooo",
+    "image": "/images/pokemon/460.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      },
+      {
+        "image": "/images/types/icon_type_6_on.png",
+        "type": "こおり",
+        "romaji": "koori"
+      }
+    ],
+    "variants": [
+      {
+        "id": 460,
+        "gen": 4,
+        "name": "メガユキノオー",
+        "romanji": "megayukinooo",
+        "image": "/images/pokemon/460-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_4_on.png",
+            "type": "くさ",
+            "romaji": "kusa"
+          },
+          {
+            "image": "/images/types/icon_type_6_on.png",
+            "type": "こおり",
+            "romaji": "koori"
+          }
+        ],
+        "romaji": "megayukinooo"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "gen": 4,
+    "name": "マニューラ",
+    "romaji": "manyuura",
+    "image": "/images/pokemon/461.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_16_on.png",
+        "type": "あく",
+        "romaji": "aku"
+      },
+      {
+        "image": "/images/types/icon_type_6_on.png",
+        "type": "こおり",
+        "romaji": "koori"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 462,
+    "gen": 4,
+    "name": "ジバコイル",
+    "romaji": "jibakoiru",
+    "image": "/images/pokemon/462.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_5_on.png",
+        "type": "でんき",
+        "romaji": "denki"
+      },
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 463,
+    "gen": 4,
+    "name": "ベロベルト",
+    "romaji": "beroberuto",
+    "image": "/images/pokemon/463.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 464,
+    "gen": 4,
+    "name": "ドサイドン",
+    "romaji": "dosaidon",
+    "image": "/images/pokemon/464.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      },
+      {
+        "image": "/images/types/icon_type_13_on.png",
+        "type": "いわ",
+        "romaji": "iwa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 465,
+    "gen": 4,
+    "name": "モジャンボ",
+    "romaji": "mojanbo",
+    "image": "/images/pokemon/465.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 466,
+    "gen": 4,
+    "name": "エレキブル",
+    "romaji": "erekiburu",
+    "image": "/images/pokemon/466.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_5_on.png",
+        "type": "でんき",
+        "romaji": "denki"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 467,
+    "gen": 4,
+    "name": "ブーバーン",
+    "romaji": "buubaan",
+    "image": "/images/pokemon/467.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_2_on.png",
+        "type": "ほのお",
+        "romaji": "honoo"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 468,
+    "gen": 4,
+    "name": "トゲキッス",
+    "romaji": "togekissu",
+    "image": "/images/pokemon/468.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_18_on.png",
+        "type": "フェアリー",
+        "romaji": "fyearii"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 469,
+    "gen": 4,
+    "name": "メガヤンマ",
+    "romaji": "megayanma",
+    "image": "/images/pokemon/469.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_12_on.png",
+        "type": "むし",
+        "romaji": "mushi"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 470,
+    "gen": 4,
+    "name": "リーフィア",
+    "romaji": "riifyia",
+    "image": "/images/pokemon/470.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 471,
+    "gen": 4,
+    "name": "グレイシア",
+    "romaji": "gureishia",
+    "image": "/images/pokemon/471.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_6_on.png",
+        "type": "こおり",
+        "romaji": "koori"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 472,
+    "gen": 4,
+    "name": "グライオン",
+    "romaji": "guraion",
+    "image": "/images/pokemon/472.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      },
+      {
+        "image": "/images/types/icon_type_10_on.png",
+        "type": "ひこう",
+        "romaji": "hikou"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 473,
+    "gen": 4,
+    "name": "マンムー",
+    "romaji": "manmuu",
+    "image": "/images/pokemon/473.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_6_on.png",
+        "type": "こおり",
+        "romaji": "koori"
+      },
+      {
+        "image": "/images/types/icon_type_9_on.png",
+        "type": "じめん",
+        "romaji": "jimen"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 474,
+    "gen": 4,
+    "name": "ポリゴンＺ",
+    "romaji": "porigonZ",
+    "image": "/images/pokemon/474.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 475,
+    "gen": 4,
+    "name": "エルレイド",
+    "romaji": "erureido",
+    "image": "/images/pokemon/475.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      },
+      {
+        "image": "/images/types/icon_type_7_on.png",
+        "type": "かくとう",
+        "romaji": "kakutou"
+      }
+    ],
+    "variants": [
+      {
+        "id": 475,
+        "gen": 4,
+        "name": "メガエルレイド",
+        "romanji": "megaerureido",
+        "image": "/images/pokemon/475-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_11_on.png",
+            "type": "エスパー",
+            "romaji": "esupaa"
+          },
+          {
+            "image": "/images/types/icon_type_7_on.png",
+            "type": "かくとう",
+            "romaji": "kakutou"
+          }
+        ],
+        "romaji": "megaerureido"
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "gen": 4,
+    "name": "ダイノーズ",
+    "romaji": "dainoozu",
+    "image": "/images/pokemon/476.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_13_on.png",
+        "type": "いわ",
+        "romaji": "iwa"
+      },
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 477,
+    "gen": 4,
+    "name": "ヨノワール",
+    "romaji": "yonowaaru",
+    "image": "/images/pokemon/477.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 478,
+    "gen": 4,
+    "name": "ユキメノコ",
+    "romaji": "yukimenoko",
+    "image": "/images/pokemon/478.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_6_on.png",
+        "type": "こおり",
+        "romaji": "koori"
+      },
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 479,
+    "gen": 4,
+    "name": "ロトム",
+    "romaji": "rotomu",
+    "image": "/images/pokemon/479.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_5_on.png",
+        "type": "でんき",
+        "romaji": "denki"
+      },
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      }
+    ],
+    "variants": [
+      {
+        "id": 479,
+        "gen": 4,
+        "name": "ロトム",
+        "romanji": "rotomu",
+        "image": "/images/pokemon/479-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_5_on.png",
+            "type": "でんき",
+            "romaji": "denki"
+          },
+          {
+            "image": "/images/types/icon_type_2_on.png",
+            "type": "ほのお",
+            "romaji": "honoo"
+          }
+        ],
+        "romaji": "rotomu"
+      },
+      {
+        "id": 479,
+        "gen": 4,
+        "name": "ロトム",
+        "romanji": "rotomu",
+        "image": "/images/pokemon/479-2.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_5_on.png",
+            "type": "でんき",
+            "romaji": "denki"
+          },
+          {
+            "image": "/images/types/icon_type_3_on.png",
+            "type": "みず",
+            "romaji": "mizu"
+          }
+        ],
+        "romaji": "rotomu"
+      },
+      {
+        "id": 479,
+        "gen": 4,
+        "name": "ロトム",
+        "romanji": "rotomu",
+        "image": "/images/pokemon/479-3.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_5_on.png",
+            "type": "でんき",
+            "romaji": "denki"
+          },
+          {
+            "image": "/images/types/icon_type_6_on.png",
+            "type": "こおり",
+            "romaji": "koori"
+          }
+        ],
+        "romaji": "rotomu"
+      },
+      {
+        "id": 479,
+        "gen": 4,
+        "name": "ロトム",
+        "romanji": "rotomu",
+        "image": "/images/pokemon/479-4.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_5_on.png",
+            "type": "でんき",
+            "romaji": "denki"
+          },
+          {
+            "image": "/images/types/icon_type_10_on.png",
+            "type": "ひこう",
+            "romaji": "hikou"
+          }
+        ],
+        "romaji": "rotomu"
+      },
+      {
+        "id": 479,
+        "gen": 4,
+        "name": "ロトム",
+        "romanji": "rotomu",
+        "image": "/images/pokemon/479-5.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_5_on.png",
+            "type": "でんき",
+            "romaji": "denki"
+          },
+          {
+            "image": "/images/types/icon_type_4_on.png",
+            "type": "くさ",
+            "romaji": "kusa"
+          }
+        ],
+        "romaji": "rotomu"
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "gen": 4,
+    "name": "ユクシー",
+    "romaji": "yukushii",
+    "image": "/images/pokemon/480.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 481,
+    "gen": 4,
+    "name": "エムリット",
+    "romaji": "emuritto",
+    "image": "/images/pokemon/481.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 482,
+    "gen": 4,
+    "name": "アグノム",
+    "romaji": "agunomu",
+    "image": "/images/pokemon/482.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 483,
+    "gen": 4,
+    "name": "ディアルガ",
+    "romaji": "dhiaruga",
+    "image": "/images/pokemon/483.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      },
+      {
+        "image": "/images/types/icon_type_15_on.png",
+        "type": "ドラゴン",
+        "romaji": "doragon"
+      }
+    ],
+    "variants": [
+      {
+        "id": 483,
+        "gen": 4,
+        "name": "ディアルガ",
+        "romanji": "dhiaruga",
+        "image": "/images/pokemon/483-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_17_on.png",
+            "type": "はがね",
+            "romaji": "hagane"
+          },
+          {
+            "image": "/images/types/icon_type_15_on.png",
+            "type": "ドラゴン",
+            "romaji": "doragon"
+          }
+        ],
+        "romaji": "dhiaruga"
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "gen": 4,
+    "name": "パルキア",
+    "romaji": "parukia",
+    "image": "/images/pokemon/484.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      },
+      {
+        "image": "/images/types/icon_type_15_on.png",
+        "type": "ドラゴン",
+        "romaji": "doragon"
+      }
+    ],
+    "variants": [
+      {
+        "id": 484,
+        "gen": 4,
+        "name": "パルキア",
+        "romanji": "parukia",
+        "image": "/images/pokemon/484-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_3_on.png",
+            "type": "みず",
+            "romaji": "mizu"
+          },
+          {
+            "image": "/images/types/icon_type_15_on.png",
+            "type": "ドラゴン",
+            "romaji": "doragon"
+          }
+        ],
+        "romaji": "parukia"
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "gen": 4,
+    "name": "ヒードラン",
+    "romaji": "hiidoran",
+    "image": "/images/pokemon/485.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_2_on.png",
+        "type": "ほのお",
+        "romaji": "honoo"
+      },
+      {
+        "image": "/images/types/icon_type_17_on.png",
+        "type": "はがね",
+        "romaji": "hagane"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 486,
+    "gen": 4,
+    "name": "レジギガス",
+    "romaji": "rejigigasu",
+    "image": "/images/pokemon/486.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 487,
+    "gen": 4,
+    "name": "ギラティナ",
+    "romaji": "girathina",
+    "image": "/images/pokemon/487.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_14_on.png",
+        "type": "ゴースト",
+        "romaji": "goosuto"
+      },
+      {
+        "image": "/images/types/icon_type_15_on.png",
+        "type": "ドラゴン",
+        "romaji": "doragon"
+      }
+    ],
+    "variants": [
+      {
+        "id": 487,
+        "gen": 4,
+        "name": "ギラティナ",
+        "romanji": "girathina",
+        "image": "/images/pokemon/487-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_14_on.png",
+            "type": "ゴースト",
+            "romaji": "goosuto"
+          },
+          {
+            "image": "/images/types/icon_type_15_on.png",
+            "type": "ドラゴン",
+            "romaji": "doragon"
+          }
+        ],
+        "romaji": "girathina"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "gen": 4,
+    "name": "クレセリア",
+    "romaji": "kureseria",
+    "image": "/images/pokemon/488.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_11_on.png",
+        "type": "エスパー",
+        "romaji": "esupaa"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 489,
+    "gen": 4,
+    "name": "フィオネ",
+    "romaji": "fyione",
+    "image": "/images/pokemon/489.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 490,
+    "gen": 4,
+    "name": "マナフィ",
+    "romaji": "manafyi",
+    "image": "/images/pokemon/490.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_3_on.png",
+        "type": "みず",
+        "romaji": "mizu"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 491,
+    "gen": 4,
+    "name": "ダークライ",
+    "romaji": "daakurai",
+    "image": "/images/pokemon/491.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_16_on.png",
+        "type": "あく",
+        "romaji": "aku"
+      }
+    ],
+    "variants": []
+  },
+  {
+    "id": 492,
+    "gen": 4,
+    "name": "シェイミ",
+    "romaji": "sheimi",
+    "image": "/images/pokemon/492.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_4_on.png",
+        "type": "くさ",
+        "romaji": "kusa"
+      }
+    ],
+    "variants": [
+      {
+        "id": 492,
+        "gen": 4,
+        "name": "シェイミ",
+        "romanji": "sheimi",
+        "image": "/images/pokemon/492-1.png",
+        "types": [
+          {
+            "image": "/images/types/icon_type_4_on.png",
+            "type": "くさ",
+            "romaji": "kusa"
+          },
+          {
+            "image": "/images/types/icon_type_10_on.png",
+            "type": "ひこう",
+            "romaji": "hikou"
+          }
+        ],
+        "romaji": "sheimi"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "gen": 4,
+    "name": "アルセウス",
+    "romaji": "aruseusu",
+    "image": "/images/pokemon/493.png",
+    "types": [
+      {
+        "image": "/images/types/icon_type_1_on.png",
+        "type": "ノーマル",
+        "romaji": "noomaru"
+      }
+    ],
+    "variants": []
+  }
+]
