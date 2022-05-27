@@ -2607,7 +2607,7 @@
     "id": 380,
     "gen": 3,
     "name": "ラティアス",
-    "romaji": "rathiasu",
+    "romaji": "ratiasu",
     "image": "/images/pokemon/380.png",
     "types": [
       {
@@ -2626,7 +2626,7 @@
         "id": 380,
         "gen": 3,
         "name": "メガラティアス",
-        "romanji": "megarathiasu",
+        "romanji": "megaratiasu",
         "image": "/images/pokemon/380-1.png",
         "types": [
           {
@@ -2640,7 +2640,7 @@
             "romaji": "esupaa"
           }
         ],
-        "romaji": "megarathiasu"
+        "romaji": "megaratiasu"
       }
     ]
   },
@@ -2648,7 +2648,7 @@
     "id": 381,
     "gen": 3,
     "name": "ラティオス",
-    "romaji": "rathiosu",
+    "romaji": "ratiosu",
     "image": "/images/pokemon/381.png",
     "types": [
       {
@@ -2667,7 +2667,7 @@
         "id": 381,
         "gen": 3,
         "name": "メガラティオス",
-        "romanji": "megarathiosu",
+        "romanji": "megaratiosu",
         "image": "/images/pokemon/381-1.png",
         "types": [
           {
@@ -2681,7 +2681,7 @@
             "romaji": "esupaa"
           }
         ],
-        "romaji": "megarathiosu"
+        "romaji": "megaratiosu"
       }
     ]
   },

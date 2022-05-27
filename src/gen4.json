@@ -2136,7 +2136,7 @@
     "id": 487,
     "gen": 4,
     "name": "ギラティナ",
-    "romaji": "girathina",
+    "romaji": "giratina",
     "image": "/images/pokemon/487.png",
     "types": [
       {
@@ -2155,7 +2155,7 @@
         "id": 487,
         "gen": 4,
         "name": "ギラティナ",
-        "romanji": "girathina",
+        "romanji": "giratina",
         "image": "/images/pokemon/487-1.png",
         "types": [
           {
@@ -2169,7 +2169,7 @@
             "romaji": "doragon"
           }
         ],
-        "romaji": "girathina"
+        "romaji": "giratina"
       }
     ]
   },
