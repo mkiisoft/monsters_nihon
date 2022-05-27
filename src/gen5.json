@@ -167,7 +167,7 @@
         "id": 503,
         "gen": 5,
         "name": "ダイケンキ",
-        "romanji": "daikenki",
+        "romaji": "daikenki",
         "image": "/images/pokemon/503-1.png",
         "types": [
           {
@@ -472,7 +472,7 @@
         "id": 521,
         "gen": 5,
         "name": "ケンホロウ",
-        "romanji": "kenhorou",
+        "romaji": "kenhorou",
         "image": "/images/pokemon/521-1.png",
         "types": [
           {
@@ -657,7 +657,7 @@
         "id": 531,
         "gen": 5,
         "name": "メガタブンネ",
-        "romanji": "megatabunne",
+        "romaji": "megatabunne",
         "image": "/images/pokemon/531-1.png",
         "types": [
           {
@@ -997,7 +997,7 @@
         "id": 549,
         "gen": 5,
         "name": "ドレディア",
-        "romanji": "doredhia",
+        "romaji": "doredhia",
         "image": "/images/pokemon/549-1.png",
         "types": [
           {
@@ -1032,7 +1032,7 @@
         "id": 550,
         "gen": 5,
         "name": "バスラオ",
-        "romanji": "basurao",
+        "romaji": "basurao",
         "image": "/images/pokemon/550-1.png",
         "types": [
           {
@@ -1046,7 +1046,7 @@
         "id": 550,
         "gen": 5,
         "name": "バスラオ",
-        "romanji": "basurao",
+        "romaji": "basurao",
         "image": "/images/pokemon/550-2.png",
         "types": [
           {
@@ -1136,7 +1136,7 @@
         "id": 554,
         "gen": 5,
         "name": "ダルマッカ",
-        "romanji": "darumakka",
+        "romaji": "darumakka",
         "image": "/images/pokemon/554-1.png",
         "types": [
           {
@@ -1166,7 +1166,7 @@
         "id": 555,
         "gen": 5,
         "name": "ヒヒダルマ",
-        "romanji": "hihidaruma",
+        "romaji": "hihidaruma",
         "image": "/images/pokemon/555-1.png",
         "types": [
           {
@@ -1185,7 +1185,7 @@
         "id": 555,
         "gen": 5,
         "name": "ヒヒダルマ",
-        "romanji": "hihidaruma",
+        "romaji": "hihidaruma",
         "image": "/images/pokemon/555-2.png",
         "types": [
           {
@@ -1199,7 +1199,7 @@
         "id": 555,
         "gen": 5,
         "name": "ヒヒダルマ",
-        "romanji": "hihidaruma",
+        "romaji": "hihidaruma",
         "image": "/images/pokemon/555-3.png",
         "types": [
           {
@@ -1349,7 +1349,7 @@
         "id": 562,
         "gen": 5,
         "name": "デスマス",
-        "romanji": "desumasu",
+        "romaji": "desumasu",
         "image": "/images/pokemon/562-1.png",
         "types": [
           {
@@ -1494,7 +1494,7 @@
         "id": 569,
         "gen": 5,
         "name": "ダストダス",
-        "romanji": "dasutodasu",
+        "romaji": "dasutodasu",
         "image": "/images/pokemon/569-1.png",
         "types": [
           {
@@ -1524,7 +1524,7 @@
         "id": 570,
         "gen": 5,
         "name": "ゾロア",
-        "romanji": "zoroa",
+        "romaji": "zoroa",
         "image": "/images/pokemon/570-1.png",
         "types": [
           {
@@ -1559,7 +1559,7 @@
         "id": 571,
         "gen": 5,
         "name": "ゾロアーク",
-        "romanji": "zoroaaku",
+        "romaji": "zoroaaku",
         "image": "/images/pokemon/571-1.png",
         "types": [
           {
@@ -1804,7 +1804,7 @@
         "id": 585,
         "gen": 5,
         "name": "シキジカ",
-        "romanji": "shikijika",
+        "romaji": "shikijika",
         "image": "/images/pokemon/585-1.png",
         "types": [
           {
@@ -1823,7 +1823,7 @@
         "id": 585,
         "gen": 5,
         "name": "シキジカ",
-        "romanji": "shikijika",
+        "romaji": "shikijika",
         "image": "/images/pokemon/585-2.png",
         "types": [
           {
@@ -1842,7 +1842,7 @@
         "id": 585,
         "gen": 5,
         "name": "シキジカ",
-        "romanji": "shikijika",
+        "romaji": "shikijika",
         "image": "/images/pokemon/585-3.png",
         "types": [
           {
@@ -1882,7 +1882,7 @@
         "id": 586,
         "gen": 5,
         "name": "メブキジカ",
-        "romanji": "mebukijika",
+        "romaji": "mebukijika",
         "image": "/images/pokemon/586-1.png",
         "types": [
           {
@@ -1901,7 +1901,7 @@
         "id": 586,
         "gen": 5,
         "name": "メブキジカ",
-        "romanji": "mebukijika",
+        "romaji": "mebukijika",
         "image": "/images/pokemon/586-2.png",
         "types": [
           {
@@ -1920,7 +1920,7 @@
         "id": 586,
         "gen": 5,
         "name": "メブキジカ",
-        "romanji": "mebukijika",
+        "romaji": "mebukijika",
         "image": "/images/pokemon/586-3.png",
         "types": [
           {
@@ -2055,7 +2055,7 @@
         "id": 592,
         "gen": 5,
         "name": "プルリル",
-        "romanji": "pururiru",
+        "romaji": "pururiru",
         "image": "/images/pokemon/592-1.png",
         "types": [
           {
@@ -2095,7 +2095,7 @@
         "id": 593,
         "gen": 5,
         "name": "ブルンゲル",
-        "romanji": "burungeru",
+        "romaji": "burungeru",
         "image": "/images/pokemon/593-1.png",
         "types": [
           {
@@ -2530,7 +2530,7 @@
         "id": 618,
         "gen": 5,
         "name": "マッギョ",
-        "romanji": "maggyo",
+        "romaji": "maggyo",
         "image": "/images/pokemon/618-1.png",
         "types": [
           {
@@ -2730,7 +2730,7 @@
         "id": 628,
         "gen": 5,
         "name": "ウォーグル",
-        "romanji": "whooguru",
+        "romaji": "whooguru",
         "image": "/images/pokemon/628-1.png",
         "types": [
           {
@@ -3000,7 +3000,7 @@
         "id": 641,
         "gen": 5,
         "name": "トルネロス",
-        "romanji": "torunerosu",
+        "romaji": "torunerosu",
         "image": "/images/pokemon/641-1.png",
         "types": [
           {
@@ -3035,7 +3035,7 @@
         "id": 642,
         "gen": 5,
         "name": "ボルトロス",
-        "romanji": "borutorosu",
+        "romaji": "borutorosu",
         "image": "/images/pokemon/642-1.png",
         "types": [
           {
@@ -3115,7 +3115,7 @@
         "id": 645,
         "gen": 5,
         "name": "ランドロス",
-        "romanji": "randorosu",
+        "romaji": "randorosu",
         "image": "/images/pokemon/645-1.png",
         "types": [
           {
@@ -3155,7 +3155,7 @@
         "id": 646,
         "gen": 5,
         "name": "キュレム",
-        "romanji": "kyuremu",
+        "romaji": "kyuremu",
         "image": "/images/pokemon/646-1.png",
         "types": [
           {
@@ -3174,7 +3174,7 @@
         "id": 646,
         "gen": 5,
         "name": "キュレム",
-        "romanji": "kyuremu",
+        "romaji": "kyuremu",
         "image": "/images/pokemon/646-2.png",
         "types": [
           {
@@ -3214,7 +3214,7 @@
         "id": 647,
         "gen": 5,
         "name": "ケルディオ",
-        "romanji": "kerudhio",
+        "romaji": "kerudhio",
         "image": "/images/pokemon/647-1.png",
         "types": [
           {
@@ -3254,7 +3254,7 @@
         "id": 648,
         "gen": 5,
         "name": "メロエッタ",
-        "romanji": "meroetta",
+        "romaji": "meroetta",
         "image": "/images/pokemon/648-1.png",
         "types": [
           {

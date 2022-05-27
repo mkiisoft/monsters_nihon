@@ -47,7 +47,7 @@
         "id": 812,
         "gen": 8,
         "name": "ゴリランダー",
-        "romanji": "gorirandaa",
+        "romaji": "gorirandaa",
         "image": "/images/pokemon/812-1.png",
         "types": [
           {
@@ -107,7 +107,7 @@
         "id": 815,
         "gen": 8,
         "name": "エースバーン",
-        "romanji": "eesubaan",
+        "romaji": "eesubaan",
         "image": "/images/pokemon/815-1.png",
         "types": [
           {
@@ -167,7 +167,7 @@
         "id": 818,
         "gen": 8,
         "name": "インテレオン",
-        "romanji": "intereon",
+        "romaji": "intereon",
         "image": "/images/pokemon/818-1.png",
         "types": [
           {
@@ -262,7 +262,7 @@
         "id": 823,
         "gen": 8,
         "name": "アーマーガア",
-        "romanji": "aamaagaa",
+        "romaji": "aamaagaa",
         "image": "/images/pokemon/823-1.png",
         "types": [
           {
@@ -337,7 +337,7 @@
         "id": 826,
         "gen": 8,
         "name": "イオルブ",
-        "romanji": "iorubu",
+        "romaji": "iorubu",
         "image": "/images/pokemon/826-1.png",
         "types": [
           {
@@ -482,7 +482,7 @@
         "id": 834,
         "gen": 8,
         "name": "カジリガメ",
-        "romanji": "kajirigame",
+        "romaji": "kajirigame",
         "image": "/images/pokemon/834-1.png",
         "types": [
           {
@@ -587,7 +587,7 @@
         "id": 839,
         "gen": 8,
         "name": "セキタンザン",
-        "romanji": "sekitanzan",
+        "romaji": "sekitanzan",
         "image": "/images/pokemon/839-1.png",
         "types": [
           {
@@ -647,7 +647,7 @@
         "id": 841,
         "gen": 8,
         "name": "アップリュー",
-        "romanji": "appuryuu",
+        "romaji": "appuryuu",
         "image": "/images/pokemon/841-1.png",
         "types": [
           {
@@ -687,7 +687,7 @@
         "id": 842,
         "gen": 8,
         "name": "タルップル",
-        "romanji": "taruppuru",
+        "romaji": "taruppuru",
         "image": "/images/pokemon/842-1.png",
         "types": [
           {
@@ -737,7 +737,7 @@
         "id": 844,
         "gen": 8,
         "name": "サダイジャ",
-        "romanji": "sadaija",
+        "romaji": "sadaija",
         "image": "/images/pokemon/844-1.png",
         "types": [
           {
@@ -842,7 +842,7 @@
         "id": 849,
         "gen": 8,
         "name": "ストリンダー",
-        "romanji": "sutorindaa",
+        "romaji": "sutorindaa",
         "image": "/images/pokemon/849-1.png",
         "types": [
           {
@@ -861,7 +861,7 @@
         "id": 849,
         "gen": 8,
         "name": "ストリンダー",
-        "romanji": "sutorindaa",
+        "romaji": "sutorindaa",
         "image": "/images/pokemon/849-2.png",
         "types": [
           {
@@ -880,7 +880,7 @@
         "id": 849,
         "gen": 8,
         "name": "ストリンダー",
-        "romanji": "sutorindaa",
+        "romaji": "sutorindaa",
         "image": "/images/pokemon/849-3.png",
         "types": [
           {
@@ -940,7 +940,7 @@
         "id": 851,
         "gen": 8,
         "name": "マルヤクデ",
-        "romanji": "maruyakude",
+        "romaji": "maruyakude",
         "image": "/images/pokemon/851-1.png",
         "types": [
           {
@@ -1005,7 +1005,7 @@
         "id": 854,
         "gen": 8,
         "name": "ヤバチャ",
-        "romanji": "yabacha",
+        "romaji": "yabacha",
         "image": "/images/pokemon/854-1.png",
         "types": [
           {
@@ -1035,7 +1035,7 @@
         "id": 855,
         "gen": 8,
         "name": "ポットデス",
-        "romanji": "pottodesu",
+        "romaji": "pottodesu",
         "image": "/images/pokemon/855-1.png",
         "types": [
           {
@@ -1100,7 +1100,7 @@
         "id": 858,
         "gen": 8,
         "name": "ブリムオン",
-        "romanji": "burimuon",
+        "romaji": "burimuon",
         "image": "/images/pokemon/858-1.png",
         "types": [
           {
@@ -1180,7 +1180,7 @@
         "id": 861,
         "gen": 8,
         "name": "オーロンゲ",
-        "romanji": "ooronge",
+        "romaji": "ooronge",
         "image": "/images/pokemon/861-1.png",
         "types": [
           {
@@ -1335,7 +1335,7 @@
         "id": 869,
         "gen": 8,
         "name": "マホイップ",
-        "romanji": "mahoippu",
+        "romaji": "mahoippu",
         "image": "/images/pokemon/869-1.png",
         "types": [
           {
@@ -1450,7 +1450,7 @@
         "id": 875,
         "gen": 8,
         "name": "コオリッポ",
-        "romanji": "koorippo",
+        "romaji": "koorippo",
         "image": "/images/pokemon/875-1.png",
         "types": [
           {
@@ -1485,7 +1485,7 @@
         "id": 876,
         "gen": 8,
         "name": "イエッサン",
-        "romanji": "iessan",
+        "romaji": "iessan",
         "image": "/images/pokemon/876-1.png",
         "types": [
           {
@@ -1525,7 +1525,7 @@
         "id": 877,
         "gen": 8,
         "name": "モルペコ",
-        "romanji": "morupeko",
+        "romaji": "morupeko",
         "image": "/images/pokemon/877-1.png",
         "types": [
           {
@@ -1575,7 +1575,7 @@
         "id": 879,
         "gen": 8,
         "name": "ダイオウドウ",
-        "romanji": "daioudou",
+        "romaji": "daioudou",
         "image": "/images/pokemon/879-1.png",
         "types": [
           {
@@ -1690,7 +1690,7 @@
         "id": 884,
         "gen": 8,
         "name": "ジュラルドン",
-        "romanji": "jurarudon",
+        "romaji": "jurarudon",
         "image": "/images/pokemon/884-1.png",
         "types": [
           {
@@ -1785,7 +1785,7 @@
         "id": 888,
         "gen": 8,
         "name": "ザシアン",
-        "romanji": "zashian",
+        "romaji": "zashian",
         "image": "/images/pokemon/888-1.png",
         "types": [
           {
@@ -1820,7 +1820,7 @@
         "id": 889,
         "gen": 8,
         "name": "ザマゼンタ",
-        "romanji": "zamazenta",
+        "romaji": "zamazenta",
         "image": "/images/pokemon/889-1.png",
         "types": [
           {
@@ -1895,7 +1895,7 @@
         "id": 892,
         "gen": 8,
         "name": "ウーラオス",
-        "romanji": "uuraosu",
+        "romaji": "uuraosu",
         "image": "/images/pokemon/892-1.png",
         "types": [
           {
@@ -1914,7 +1914,7 @@
         "id": 892,
         "gen": 8,
         "name": "ウーラオス",
-        "romanji": "uuraosu",
+        "romaji": "uuraosu",
         "image": "/images/pokemon/892-2.png",
         "types": [
           {
@@ -1933,7 +1933,7 @@
         "id": 892,
         "gen": 8,
         "name": "ウーラオス",
-        "romanji": "uuraosu",
+        "romaji": "uuraosu",
         "image": "/images/pokemon/892-3.png",
         "types": [
           {
@@ -2053,7 +2053,7 @@
         "id": 898,
         "gen": 8,
         "name": "バドレックス",
-        "romanji": "badorekkusu",
+        "romaji": "badorekkusu",
         "image": "/images/pokemon/898-1.png",
         "types": [
           {
@@ -2072,7 +2072,7 @@
         "id": 898,
         "gen": 8,
         "name": "バドレックス",
-        "romanji": "badorekkusu",
+        "romaji": "badorekkusu",
         "image": "/images/pokemon/898-2.png",
         "types": [
           {
@@ -2172,7 +2172,7 @@
         "id": 902,
         "gen": 8,
         "name": "イダイトウ",
-        "romanji": "idaitou",
+        "romaji": "idaitou",
         "image": "/images/pokemon/902-1.png",
         "types": [
           {
@@ -2252,7 +2252,7 @@
         "id": 905,
         "gen": 8,
         "name": "ラブトロス",
-        "romanji": "rabutorosu",
+        "romaji": "rabutorosu",
         "image": "/images/pokemon/905-1.png",
         "types": [
           {

@@ -452,7 +452,7 @@
         "id": 412,
         "gen": 4,
         "name": "ミノムッチ",
-        "romanji": "minomucchi",
+        "romaji": "minomucchi",
         "image": "/images/pokemon/412-1.png",
         "types": [
           {
@@ -460,14 +460,13 @@
             "type": "むし",
             "romaji": "mushi"
           }
-        ],
-        "romaji": "minomucchi"
+        ]
       },
       {
         "id": 412,
         "gen": 4,
         "name": "ミノムッチ",
-        "romanji": "minomucchi",
+        "romaji": "minomucchi",
         "image": "/images/pokemon/412-2.png",
         "types": [
           {
@@ -475,8 +474,7 @@
             "type": "むし",
             "romaji": "mushi"
           }
-        ],
-        "romaji": "minomucchi"
+        ]
       }
     ]
   },
@@ -503,7 +501,7 @@
         "id": 413,
         "gen": 4,
         "name": "ミノマダム",
-        "romanji": "minomadamu",
+        "romaji": "minomadamu",
         "image": "/images/pokemon/413-1.png",
         "types": [
           {
@@ -516,14 +514,13 @@
             "type": "じめん",
             "romaji": "jimen"
           }
-        ],
-        "romaji": "minomadamu"
+        ]
       },
       {
         "id": 413,
         "gen": 4,
         "name": "ミノマダム",
-        "romanji": "minomadamu",
+        "romaji": "minomadamu",
         "image": "/images/pokemon/413-2.png",
         "types": [
           {
@@ -536,8 +533,7 @@
             "type": "はがね",
             "romaji": "hagane"
           }
-        ],
-        "romaji": "minomadamu"
+        ]
       }
     ]
   },
@@ -679,7 +675,7 @@
         "id": 421,
         "gen": 4,
         "name": "チェリム",
-        "romanji": "cherimu",
+        "romaji": "cherimu",
         "image": "/images/pokemon/421-1.png",
         "types": [
           {
@@ -687,8 +683,7 @@
             "type": "くさ",
             "romaji": "kusa"
           }
-        ],
-        "romaji": "cherimu"
+        ]
       }
     ]
   },
@@ -710,7 +705,7 @@
         "id": 422,
         "gen": 4,
         "name": "カラナクシ",
-        "romanji": "karanakushi",
+        "romaji": "karanakushi",
         "image": "/images/pokemon/422-1.png",
         "types": [
           {
@@ -718,8 +713,7 @@
             "type": "みず",
             "romaji": "mizu"
           }
-        ],
-        "romaji": "karanakushi"
+        ]
       }
     ]
   },
@@ -746,7 +740,7 @@
         "id": 423,
         "gen": 4,
         "name": "トリトドン",
-        "romanji": "toritodon",
+        "romaji": "toritodon",
         "image": "/images/pokemon/423-1.png",
         "types": [
           {
@@ -759,8 +753,7 @@
             "type": "じめん",
             "romaji": "jimen"
           }
-        ],
-        "romaji": "toritodon"
+        ]
       }
     ]
   },
@@ -852,7 +845,7 @@
         "id": 428,
         "gen": 4,
         "name": "メガミミロップ",
-        "romanji": "megamimiroppu",
+        "romaji": "megamimiroppu",
         "image": "/images/pokemon/428-1.png",
         "types": [
           {
@@ -865,8 +858,7 @@
             "type": "かくとう",
             "romaji": "kakutou"
           }
-        ],
-        "romaji": "megamimiroppu"
+        ]
       }
     ]
   },
@@ -1183,7 +1175,7 @@
         "id": 445,
         "gen": 4,
         "name": "メガガブリアス",
-        "romanji": "megagaburiasu",
+        "romaji": "megagaburiasu",
         "image": "/images/pokemon/445-1.png",
         "types": [
           {
@@ -1196,8 +1188,7 @@
             "type": "じめん",
             "romaji": "jimen"
           }
-        ],
-        "romaji": "megagaburiasu"
+        ]
       }
     ]
   },
@@ -1254,7 +1245,7 @@
         "id": 448,
         "gen": 4,
         "name": "メガルカリオ",
-        "romanji": "megarukario",
+        "romaji": "megarukario",
         "image": "/images/pokemon/448-1.png",
         "types": [
           {
@@ -1267,8 +1258,7 @@
             "type": "はがね",
             "romaji": "hagane"
           }
-        ],
-        "romaji": "megarukario"
+        ]
       }
     ]
   },
@@ -1490,7 +1480,7 @@
         "id": 460,
         "gen": 4,
         "name": "メガユキノオー",
-        "romanji": "megayukinooo",
+        "romaji": "megayukinooo",
         "image": "/images/pokemon/460-1.png",
         "types": [
           {
@@ -1503,8 +1493,7 @@
             "type": "こおり",
             "romaji": "koori"
           }
-        ],
-        "romaji": "megayukinooo"
+        ]
       }
     ]
   },
@@ -1776,7 +1765,7 @@
         "id": 475,
         "gen": 4,
         "name": "メガエルレイド",
-        "romanji": "megaerureido",
+        "romaji": "megaerureido",
         "image": "/images/pokemon/475-1.png",
         "types": [
           {
@@ -1789,8 +1778,7 @@
             "type": "かくとう",
             "romaji": "kakutou"
           }
-        ],
-        "romaji": "megaerureido"
+        ]
       }
     ]
   },
@@ -1872,7 +1860,7 @@
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romanji": "rotomu",
+        "romaji": "rotomu",
         "image": "/images/pokemon/479-1.png",
         "types": [
           {
@@ -1885,14 +1873,13 @@
             "type": "ほのお",
             "romaji": "honoo"
           }
-        ],
-        "romaji": "rotomu"
+        ]
       },
       {
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romanji": "rotomu",
+        "romaji": "rotomu",
         "image": "/images/pokemon/479-2.png",
         "types": [
           {
@@ -1905,14 +1892,13 @@
             "type": "みず",
             "romaji": "mizu"
           }
-        ],
-        "romaji": "rotomu"
+        ]
       },
       {
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romanji": "rotomu",
+        "romaji": "rotomu",
         "image": "/images/pokemon/479-3.png",
         "types": [
           {
@@ -1925,14 +1911,13 @@
             "type": "こおり",
             "romaji": "koori"
           }
-        ],
-        "romaji": "rotomu"
+        ]
       },
       {
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romanji": "rotomu",
+        "romaji": "rotomu",
         "image": "/images/pokemon/479-4.png",
         "types": [
           {
@@ -1945,14 +1930,13 @@
             "type": "ひこう",
             "romaji": "hikou"
           }
-        ],
-        "romaji": "rotomu"
+        ]
       },
       {
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romanji": "rotomu",
+        "romaji": "rotomu",
         "image": "/images/pokemon/479-5.png",
         "types": [
           {
@@ -1965,8 +1949,7 @@
             "type": "くさ",
             "romaji": "kusa"
           }
-        ],
-        "romaji": "rotomu"
+        ]
       }
     ]
   },
@@ -2038,7 +2021,7 @@
         "id": 483,
         "gen": 4,
         "name": "ディアルガ",
-        "romanji": "dhiaruga",
+        "romaji": "dhiaruga",
         "image": "/images/pokemon/483-1.png",
         "types": [
           {
@@ -2051,8 +2034,7 @@
             "type": "ドラゴン",
             "romaji": "doragon"
           }
-        ],
-        "romaji": "dhiaruga"
+        ]
       }
     ]
   },
@@ -2079,7 +2061,7 @@
         "id": 484,
         "gen": 4,
         "name": "パルキア",
-        "romanji": "parukia",
+        "romaji": "parukia",
         "image": "/images/pokemon/484-1.png",
         "types": [
           {
@@ -2092,8 +2074,7 @@
             "type": "ドラゴン",
             "romaji": "doragon"
           }
-        ],
-        "romaji": "parukia"
+        ]
       }
     ]
   },
@@ -2155,7 +2136,7 @@
         "id": 487,
         "gen": 4,
         "name": "ギラティナ",
-        "romanji": "giratina",
+        "romaji": "giratina",
         "image": "/images/pokemon/487-1.png",
         "types": [
           {
@@ -2168,8 +2149,7 @@
             "type": "ドラゴン",
             "romaji": "doragon"
           }
-        ],
-        "romaji": "giratina"
+        ]
       }
     ]
   },
@@ -2251,7 +2231,7 @@
         "id": 492,
         "gen": 4,
         "name": "シェイミ",
-        "romanji": "sheimi",
+        "romaji": "sheimi",
         "image": "/images/pokemon/492-1.png",
         "types": [
           {
@@ -2264,8 +2244,7 @@
             "type": "ひこう",
             "romaji": "hikou"
           }
-        ],
-        "romaji": "sheimi"
+        ]
       }
     ]
   },

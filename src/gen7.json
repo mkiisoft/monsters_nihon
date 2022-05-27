@@ -62,7 +62,7 @@
         "id": 724,
         "gen": 7,
         "name": "ジュナイパー",
-        "romanji": "junaipaa",
+        "romaji": "junaipaa",
         "image": "/images/pokemon/724-1.png",
         "types": [
           {
@@ -382,7 +382,7 @@
         "id": 741,
         "gen": 7,
         "name": "オドリドリ",
-        "romanji": "odoridori",
+        "romaji": "odoridori",
         "image": "/images/pokemon/741-1.png",
         "types": [
           {
@@ -401,7 +401,7 @@
         "id": 741,
         "gen": 7,
         "name": "オドリドリ",
-        "romanji": "odoridori",
+        "romaji": "odoridori",
         "image": "/images/pokemon/741-2.png",
         "types": [
           {
@@ -420,7 +420,7 @@
         "id": 741,
         "gen": 7,
         "name": "オドリドリ",
-        "romanji": "odoridori",
+        "romaji": "odoridori",
         "image": "/images/pokemon/741-3.png",
         "types": [
           {
@@ -510,7 +510,7 @@
         "id": 745,
         "gen": 7,
         "name": "ルガルガン",
-        "romanji": "rugarugan",
+        "romaji": "rugarugan",
         "image": "/images/pokemon/745-1.png",
         "types": [
           {
@@ -524,7 +524,7 @@
         "id": 745,
         "gen": 7,
         "name": "ルガルガン",
-        "romanji": "rugarugan",
+        "romaji": "rugarugan",
         "image": "/images/pokemon/745-2.png",
         "types": [
           {
@@ -554,7 +554,7 @@
         "id": 746,
         "gen": 7,
         "name": "ヨワシ",
-        "romanji": "yowashi",
+        "romaji": "yowashi",
         "image": "/images/pokemon/746-1.png",
         "types": [
           {
@@ -1069,7 +1069,7 @@
         "id": 774,
         "gen": 7,
         "name": "メテノ",
-        "romanji": "meteno",
+        "romaji": "meteno",
         "image": "/images/pokemon/774-1.png",
         "types": [
           {
@@ -1579,7 +1579,7 @@
         "id": 800,
         "gen": 7,
         "name": "ネクロズマ",
-        "romanji": "nekurozuma",
+        "romaji": "nekurozuma",
         "image": "/images/pokemon/800-1.png",
         "types": [
           {
@@ -1598,7 +1598,7 @@
         "id": 800,
         "gen": 7,
         "name": "ネクロズマ",
-        "romanji": "nekurozuma",
+        "romaji": "nekurozuma",
         "image": "/images/pokemon/800-2.png",
         "types": [
           {
@@ -1617,7 +1617,7 @@
         "id": 800,
         "gen": 7,
         "name": "ネクロズマ",
-        "romanji": "nekurozuma",
+        "romaji": "nekurozuma",
         "image": "/images/pokemon/800-3.png",
         "types": [
           {
@@ -1797,7 +1797,7 @@
         "id": 809,
         "gen": 7,
         "name": "メルメタル",
-        "romanji": "merumetaru",
+        "romaji": "merumetaru",
         "image": "/images/pokemon/809-1.png",
         "types": [
           {

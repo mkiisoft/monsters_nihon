@@ -877,7 +877,7 @@
         "id": 199,
         "gen": 2,
         "name": "ヤドキング",
-        "romanji": "yadokingu",
+        "romaji": "yadokingu",
         "image": "/images/pokemon/199-1.png",
         "types": [
           {
@@ -890,8 +890,7 @@
             "type": "エスパー",
             "romaji": "esupaa"
           }
-        ],
-        "romaji": "yadokingu"
+        ]
       }
     ]
   },
@@ -1053,7 +1052,7 @@
         "id": 208,
         "gen": 2,
         "name": "メガハガネール",
-        "romanji": "megahaganeeru",
+        "romaji": "megahaganeeru",
         "image": "/images/pokemon/208-1.png",
         "types": [
           {
@@ -1066,8 +1065,7 @@
             "type": "じめん",
             "romaji": "jimen"
           }
-        ],
-        "romaji": "megahaganeeru"
+        ]
       }
     ]
   },
@@ -1124,7 +1122,7 @@
         "id": 211,
         "gen": 2,
         "name": "ハリーセン",
-        "romanji": "hariisen",
+        "romaji": "hariisen",
         "image": "/images/pokemon/211-1.png",
         "types": [
           {
@@ -1137,8 +1135,7 @@
             "type": "どく",
             "romaji": "doku"
           }
-        ],
-        "romaji": "hariisen"
+        ]
       }
     ]
   },
@@ -1165,7 +1162,7 @@
         "id": 212,
         "gen": 2,
         "name": "メガハッサム",
-        "romanji": "megahassamu",
+        "romaji": "megahassamu",
         "image": "/images/pokemon/212-1.png",
         "types": [
           {
@@ -1178,8 +1175,7 @@
             "type": "はがね",
             "romaji": "hagane"
           }
-        ],
-        "romaji": "megahassamu"
+        ]
       }
     ]
   },
@@ -1226,7 +1222,7 @@
         "id": 214,
         "gen": 2,
         "name": "メガヘラクロス",
-        "romanji": "megaherakurosu",
+        "romaji": "megaherakurosu",
         "image": "/images/pokemon/214-1.png",
         "types": [
           {
@@ -1239,8 +1235,7 @@
             "type": "かくとう",
             "romaji": "kakutou"
           }
-        ],
-        "romaji": "megaherakurosu"
+        ]
       }
     ]
   },
@@ -1267,7 +1262,7 @@
         "id": 215,
         "gen": 2,
         "name": "ニューラ",
-        "romanji": "nyuura",
+        "romaji": "nyuura",
         "image": "/images/pokemon/215-1.png",
         "types": [
           {
@@ -1280,8 +1275,7 @@
             "type": "どく",
             "romaji": "doku"
           }
-        ],
-        "romaji": "nyuura"
+        ]
       }
     ]
   },
@@ -1413,7 +1407,7 @@
         "id": 222,
         "gen": 2,
         "name": "サニーゴ",
-        "romanji": "saniigo",
+        "romaji": "saniigo",
         "image": "/images/pokemon/222-1.png",
         "types": [
           {
@@ -1421,8 +1415,7 @@
             "type": "ゴースト",
             "romaji": "goosuto"
           }
-        ],
-        "romaji": "saniigo"
+        ]
       }
     ]
   },
@@ -1559,7 +1552,7 @@
         "id": 229,
         "gen": 2,
         "name": "メガヘルガー",
-        "romanji": "megaherugaa",
+        "romaji": "megaherugaa",
         "image": "/images/pokemon/229-1.png",
         "types": [
           {
@@ -1572,8 +1565,7 @@
             "type": "ほのお",
             "romaji": "honoo"
           }
-        ],
-        "romaji": "megaherugaa"
+        ]
       }
     ]
   },
@@ -1890,7 +1882,7 @@
         "id": 248,
         "gen": 2,
         "name": "メガバンギラス",
-        "romanji": "megabangirasu",
+        "romaji": "megabangirasu",
         "image": "/images/pokemon/248-1.png",
         "types": [
           {
@@ -1903,8 +1895,7 @@
             "type": "あく",
             "romaji": "aku"
           }
-        ],
-        "romaji": "megabangirasu"
+        ]
       }
     ]
   },

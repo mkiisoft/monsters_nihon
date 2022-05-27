@@ -337,7 +337,7 @@
         "id": 668,
         "gen": 6,
         "name": "カエンジシ",
-        "romanji": "kaenjishi",
+        "romaji": "kaenjishi",
         "image": "/images/pokemon/668-1.png",
         "types": [
           {
@@ -512,7 +512,7 @@
         "id": 678,
         "gen": 6,
         "name": "ニャオニクス",
-        "romanji": "nyaonikusu",
+        "romaji": "nyaonikusu",
         "image": "/images/pokemon/678-1.png",
         "types": [
           {
@@ -587,7 +587,7 @@
         "id": 681,
         "gen": 6,
         "name": "ギルガルド",
-        "romanji": "girugarudo",
+        "romaji": "girugarudo",
         "image": "/images/pokemon/681-1.png",
         "types": [
           {
@@ -1042,7 +1042,7 @@
         "id": 705,
         "gen": 6,
         "name": "ヌメイル",
-        "romanji": "numeiru",
+        "romaji": "numeiru",
         "image": "/images/pokemon/705-1.png",
         "types": [
           {
@@ -1077,7 +1077,7 @@
         "id": 706,
         "gen": 6,
         "name": "ヌメルゴン",
-        "romanji": "numerugon",
+        "romaji": "numerugon",
         "image": "/images/pokemon/706-1.png",
         "types": [
           {
@@ -1227,7 +1227,7 @@
         "id": 713,
         "gen": 6,
         "name": "クレベース",
-        "romanji": "kurebeesu",
+        "romaji": "kurebeesu",
         "image": "/images/pokemon/713-1.png",
         "types": [
           {
@@ -1342,7 +1342,7 @@
         "id": 718,
         "gen": 6,
         "name": "ジガルデ",
-        "romanji": "jigarude",
+        "romaji": "jigarude",
         "image": "/images/pokemon/718-1.png",
         "types": [
           {
@@ -1361,7 +1361,7 @@
         "id": 718,
         "gen": 6,
         "name": "ジガルデ",
-        "romanji": "jigarude",
+        "romaji": "jigarude",
         "image": "/images/pokemon/718-2.png",
         "types": [
           {
@@ -1401,7 +1401,7 @@
         "id": 719,
         "gen": 6,
         "name": "メガディアンシー",
-        "romanji": "megadhianshii",
+        "romaji": "megadhianshii",
         "image": "/images/pokemon/719-1.png",
         "types": [
           {
@@ -1441,7 +1441,7 @@
         "id": 720,
         "gen": 6,
         "name": "フーパ",
-        "romanji": "fuupa",
+        "romaji": "fuupa",
         "image": "/images/pokemon/720-1.png",
         "types": [
           {
