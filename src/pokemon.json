@@ -16620,8 +16620,8 @@
   {
     "id": 772,
     "gen": 7,
-    "name": "タイプ：ヌル",
-    "romaji": "taipu：nuru",
+    "name": "タイプヌル",
+    "romaji": "taipunuru",
     "image": "/images/pokemon/772.png",
     "types": [
       {
