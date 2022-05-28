@@ -4578,7 +4578,6 @@
         "id": 199,
         "gen": 2,
         "name": "ヤドキング",
-        "romaji": "yadokingu",
         "image": "/images/pokemon/199-1.png",
         "types": [
           {
@@ -4754,7 +4753,6 @@
         "id": 208,
         "gen": 2,
         "name": "メガハガネール",
-        "romaji": "megahaganeeru",
         "image": "/images/pokemon/208-1.png",
         "types": [
           {
@@ -4825,7 +4823,6 @@
         "id": 211,
         "gen": 2,
         "name": "ハリーセン",
-        "romaji": "hariisen",
         "image": "/images/pokemon/211-1.png",
         "types": [
           {
@@ -4866,7 +4863,6 @@
         "id": 212,
         "gen": 2,
         "name": "メガハッサム",
-        "romaji": "megahassamu",
         "image": "/images/pokemon/212-1.png",
         "types": [
           {
@@ -4927,7 +4923,6 @@
         "id": 214,
         "gen": 2,
         "name": "メガヘラクロス",
-        "romaji": "megaherakurosu",
         "image": "/images/pokemon/214-1.png",
         "types": [
           {
@@ -4968,7 +4963,6 @@
         "id": 215,
         "gen": 2,
         "name": "ニューラ",
-        "romaji": "nyuura",
         "image": "/images/pokemon/215-1.png",
         "types": [
           {
@@ -5114,7 +5108,6 @@
         "id": 222,
         "gen": 2,
         "name": "サニーゴ",
-        "romaji": "saniigo",
         "image": "/images/pokemon/222-1.png",
         "types": [
           {
@@ -5260,7 +5253,6 @@
         "id": 229,
         "gen": 2,
         "name": "メガヘルガー",
-        "romaji": "megaherugaa",
         "image": "/images/pokemon/229-1.png",
         "types": [
           {
@@ -5591,7 +5583,6 @@
         "id": 248,
         "gen": 2,
         "name": "メガバンギラス",
-        "romaji": "megabangirasu",
         "image": "/images/pokemon/248-1.png",
         "types": [
           {
@@ -5717,7 +5708,6 @@
         "id": 254,
         "gen": 3,
         "name": "メガジュカイン",
-        "romaji": "megajukain",
         "image": "/images/pokemon/254-1.png",
         "types": [
           {
@@ -5793,7 +5783,6 @@
         "id": 257,
         "gen": 3,
         "name": "メガバシャーモ",
-        "romaji": "megabashaamo",
         "image": "/images/pokemon/257-1.png",
         "types": [
           {
@@ -5869,7 +5858,6 @@
         "id": 260,
         "gen": 3,
         "name": "メガラグラージ",
-        "romaji": "megaraguraaji",
         "image": "/images/pokemon/260-1.png",
         "types": [
           {
@@ -5935,7 +5923,6 @@
         "id": 263,
         "gen": 3,
         "name": "ジグザグマ",
-        "romaji": "jiguzaguma",
         "image": "/images/pokemon/263-1.png",
         "types": [
           {
@@ -5971,7 +5958,6 @@
         "id": 264,
         "gen": 3,
         "name": "マッスグマ",
-        "romaji": "massuguma",
         "image": "/images/pokemon/264-1.png",
         "types": [
           {
@@ -6332,7 +6318,6 @@
         "id": 282,
         "gen": 3,
         "name": "メガサーナイト",
-        "romaji": "megasaanaito",
         "image": "/images/pokemon/282-1.png",
         "types": [
           {
@@ -6693,7 +6678,6 @@
         "id": 302,
         "gen": 3,
         "name": "メガヤミラミ",
-        "romaji": "megayamirami",
         "image": "/images/pokemon/302-1.png",
         "types": [
           {
@@ -6734,7 +6718,6 @@
         "id": 303,
         "gen": 3,
         "name": "メガクチート",
-        "romaji": "megakuchiito",
         "image": "/images/pokemon/303-1.png",
         "types": [
           {
@@ -6815,7 +6798,6 @@
         "id": 306,
         "gen": 3,
         "name": "メガボスゴドラ",
-        "romaji": "megabosugodora",
         "image": "/images/pokemon/306-1.png",
         "types": [
           {
@@ -6871,7 +6853,6 @@
         "id": 308,
         "gen": 3,
         "name": "メガチャーレム",
-        "romaji": "megachaaremu",
         "image": "/images/pokemon/308-1.png",
         "types": [
           {
@@ -6922,7 +6903,6 @@
         "id": 310,
         "gen": 3,
         "name": "メガライボルト",
-        "romaji": "megaraiboruto",
         "image": "/images/pokemon/310-1.png",
         "types": [
           {
@@ -7088,7 +7068,6 @@
         "id": 319,
         "gen": 3,
         "name": "メガサメハダー",
-        "romaji": "megasamehadaa",
         "image": "/images/pokemon/319-1.png",
         "types": [
           {
@@ -7179,7 +7158,6 @@
         "id": 323,
         "gen": 3,
         "name": "メガバクーダ",
-        "romaji": "megabakuuda",
         "image": "/images/pokemon/323-1.png",
         "types": [
           {
@@ -7390,7 +7368,6 @@
         "id": 334,
         "gen": 3,
         "name": "メガチルタリス",
-        "romaji": "megachirutarisu",
         "image": "/images/pokemon/334-1.png",
         "types": [
           {
@@ -7766,7 +7743,6 @@
         "id": 354,
         "gen": 3,
         "name": "メガジュペッタ",
-        "romaji": "megajupetta",
         "image": "/images/pokemon/354-1.png",
         "types": [
           {
@@ -7862,7 +7838,6 @@
         "id": 359,
         "gen": 3,
         "name": "メガアブソル",
-        "romaji": "megaabusoru",
         "image": "/images/pokemon/359-1.png",
         "types": [
           {
@@ -7923,7 +7898,6 @@
         "id": 362,
         "gen": 3,
         "name": "メガオニゴーリ",
-        "romaji": "megaonigoori",
         "image": "/images/pokemon/362-1.png",
         "types": [
           {
@@ -8129,7 +8103,6 @@
         "id": 373,
         "gen": 3,
         "name": "メガボーマンダ",
-        "romaji": "megaboomanda",
         "image": "/images/pokemon/373-1.png",
         "types": [
           {
@@ -8210,7 +8183,6 @@
         "id": 376,
         "gen": 3,
         "name": "メガメタグロス",
-        "romaji": "megametagurosu",
         "image": "/images/pokemon/376-1.png",
         "types": [
           {
@@ -8296,7 +8268,6 @@
         "id": 380,
         "gen": 3,
         "name": "メガラティアス",
-        "romaji": "megaratiasu",
         "image": "/images/pokemon/380-1.png",
         "types": [
           {
@@ -8337,7 +8308,6 @@
         "id": 381,
         "gen": 3,
         "name": "メガラティオス",
-        "romaji": "megaratiosu",
         "image": "/images/pokemon/381-1.png",
         "types": [
           {
@@ -8373,7 +8343,6 @@
         "id": 382,
         "gen": 3,
         "name": "ゲンシカイオーガ",
-        "romaji": "genshikaiooga",
         "image": "/images/pokemon/382-1.png",
         "types": [
           {
@@ -8404,7 +8373,6 @@
         "id": 383,
         "gen": 3,
         "name": "ゲンシグラードン",
-        "romaji": "genshiguraadon",
         "image": "/images/pokemon/383-1.png",
         "types": [
           {
@@ -8445,7 +8413,6 @@
         "id": 384,
         "gen": 3,
         "name": "メガレックウザ",
-        "romaji": "megarekkuuza",
         "image": "/images/pokemon/384-1.png",
         "types": [
           {
@@ -8501,7 +8468,6 @@
         "id": 386,
         "gen": 3,
         "name": "デオキシス",
-        "romaji": "deokishisu",
         "image": "/images/pokemon/386-1.png",
         "types": [
           {
@@ -8516,7 +8482,6 @@
         "id": 386,
         "gen": 3,
         "name": "デオキシス",
-        "romaji": "deokishisu",
         "image": "/images/pokemon/386-2.png",
         "types": [
           {
@@ -8531,7 +8496,6 @@
         "id": 386,
         "gen": 3,
         "name": "デオキシス",
-        "romaji": "deokishisu",
         "image": "/images/pokemon/386-3.png",
         "types": [
           {
@@ -8997,7 +8961,6 @@
         "id": 412,
         "gen": 4,
         "name": "ミノムッチ",
-        "romaji": "minomucchi",
         "image": "/images/pokemon/412-1.png",
         "types": [
           {
@@ -9012,7 +8975,6 @@
         "id": 412,
         "gen": 4,
         "name": "ミノムッチ",
-        "romaji": "minomucchi",
         "image": "/images/pokemon/412-2.png",
         "types": [
           {
@@ -9048,7 +9010,6 @@
         "id": 413,
         "gen": 4,
         "name": "ミノマダム",
-        "romaji": "minomadamu",
         "image": "/images/pokemon/413-1.png",
         "types": [
           {
@@ -9068,7 +9029,6 @@
         "id": 413,
         "gen": 4,
         "name": "ミノマダム",
-        "romaji": "minomadamu",
         "image": "/images/pokemon/413-2.png",
         "types": [
           {
@@ -9224,7 +9184,6 @@
         "id": 421,
         "gen": 4,
         "name": "チェリム",
-        "romaji": "cherimu",
         "image": "/images/pokemon/421-1.png",
         "types": [
           {
@@ -9255,7 +9214,6 @@
         "id": 422,
         "gen": 4,
         "name": "カラナクシ",
-        "romaji": "karanakushi",
         "image": "/images/pokemon/422-1.png",
         "types": [
           {
@@ -9291,7 +9249,6 @@
         "id": 423,
         "gen": 4,
         "name": "トリトドン",
-        "romaji": "toritodon",
         "image": "/images/pokemon/423-1.png",
         "types": [
           {
@@ -9397,7 +9354,6 @@
         "id": 428,
         "gen": 4,
         "name": "メガミミロップ",
-        "romaji": "megamimiroppu",
         "image": "/images/pokemon/428-1.png",
         "types": [
           {
@@ -9728,7 +9684,6 @@
         "id": 445,
         "gen": 4,
         "name": "メガガブリアス",
-        "romaji": "megagaburiasu",
         "image": "/images/pokemon/445-1.png",
         "types": [
           {
@@ -9799,7 +9754,6 @@
         "id": 448,
         "gen": 4,
         "name": "メガルカリオ",
-        "romaji": "megarukario",
         "image": "/images/pokemon/448-1.png",
         "types": [
           {
@@ -10035,7 +9989,6 @@
         "id": 460,
         "gen": 4,
         "name": "メガユキノオー",
-        "romaji": "megayukinooo",
         "image": "/images/pokemon/460-1.png",
         "types": [
           {
@@ -10321,7 +10274,6 @@
         "id": 475,
         "gen": 4,
         "name": "メガエルレイド",
-        "romaji": "megaerureido",
         "image": "/images/pokemon/475-1.png",
         "types": [
           {
@@ -10417,7 +10369,6 @@
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romaji": "rotomu",
         "image": "/images/pokemon/479-1.png",
         "types": [
           {
@@ -10437,7 +10388,6 @@
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romaji": "rotomu",
         "image": "/images/pokemon/479-2.png",
         "types": [
           {
@@ -10457,7 +10407,6 @@
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romaji": "rotomu",
         "image": "/images/pokemon/479-3.png",
         "types": [
           {
@@ -10477,7 +10426,6 @@
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romaji": "rotomu",
         "image": "/images/pokemon/479-4.png",
         "types": [
           {
@@ -10497,7 +10445,6 @@
         "id": 479,
         "gen": 4,
         "name": "ロトム",
-        "romaji": "rotomu",
         "image": "/images/pokemon/479-5.png",
         "types": [
           {
@@ -10583,7 +10530,6 @@
         "id": 483,
         "gen": 4,
         "name": "ディアルガ",
-        "romaji": "dhiaruga",
         "image": "/images/pokemon/483-1.png",
         "types": [
           {
@@ -10624,7 +10570,6 @@
         "id": 484,
         "gen": 4,
         "name": "パルキア",
-        "romaji": "parukia",
         "image": "/images/pokemon/484-1.png",
         "types": [
           {
@@ -10700,7 +10645,6 @@
         "id": 487,
         "gen": 4,
         "name": "ギラティナ",
-        "romaji": "giratina",
         "image": "/images/pokemon/487-1.png",
         "types": [
           {
@@ -10796,7 +10740,6 @@
         "id": 492,
         "gen": 4,
         "name": "シェイミ",
-        "romaji": "sheimi",
         "image": "/images/pokemon/492-1.png",
         "types": [
           {
